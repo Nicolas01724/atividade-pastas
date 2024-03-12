@@ -73,3 +73,28 @@ button{
     margin-left: 510px;
     margin-right: 1100px;
 }
+
+#separado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#separado img{
+    width: 300px;
+    margin: 20px 40px;
+}
+
+#junto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#junto img{
+    margin: 0px;
+    width: 475.97px;
+}
